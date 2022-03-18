@@ -65,6 +65,12 @@ record.onresult = function(evt){
         if (command == "open"){
           elBoxGif.classList.add("open")
         }
+        else{
+          alert("Nmadur gapiring")
+        }
+
+
+        
   
      
      
